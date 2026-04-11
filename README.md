@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">💻 Estudante de Engenharia de Computação com foco em desenvolvimento full-stack e análise de dados.<br>🏦 Experiência no desenvolvimento de sistemas no setor bancário.<br>💼 Atualmente trabalho com desenvolvimento de sistemas e análise de dados no Banco Safra.<br>☁️ Aprofundando conhecimentos em computação em nuvem e inteligência artificial.<br>🚀 Em busca de aprender continuamente, desenvolver projetos e crescer na área de TI.</p>
+<p align="left">
+💻 Estudante de Engenharia de Computação com foco em desenvolvimento full-stack e análise de dados.<br>
+🏦 Experiência no desenvolvimento de sistemas no setor bancário.<br>
+💼 Atualmente trabalho com desenvolvimento de sistemas e análise de dados no Banco Safra.<br>
+🌎 Boa comunicação em inglês, em ambientes técnicos e profissionais.<br>
+☁️ Aprofundando conhecimentos em computação em nuvem e inteligência artificial.<br>
+🚀 Em busca de aprender continuamente, desenvolver projetos e crescer na área de TI.<br><br>
+✨ Curiosidades sobre mim: valorizo conexões genuínas e gosto de passar tempo com pessoas positivas.
+</p>
 
 ###
 
