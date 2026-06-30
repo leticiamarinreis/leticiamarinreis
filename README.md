@@ -1,28 +1,21 @@
-<h1 align="left">Olá! Seja bem-vindo 👋</h1>
+<h1 align="center">Hi! I'm Letícia 👋</h1>
 
-###
-
-<p align="left">Eu sou a Letícia 👩‍💻</p>
-
-###
-
-<h2 align="left">Sobre mim:</h2>
 
 ###
 
 <p align="left">
-💻 Estudante de Engenharia de Computação<br>
-🏦 Experiência no setor bancário, atuando no desenvolvimento de software, análise de dados e gestão de processos.<br>
-💼 No Banco Safra, participei do desenvolvimento de sistemas, acompanhando todo o ciclo de vida das aplicações, desde o levantamento de requisitos, desenvolvimento, implementação, manutenção e observabilidade, além de atuar com análise de dados para apoio à tomada de decisão.<br>
-📊 Atualmente, no Itaú Unibanco, trabalho com análise de dados, gestão de projetos, otimização de processos e geração de insights estratégicos para o negócio.<br>
-🌎 Boa comunicação em inglês.<br>
-☁️ Aprofundando conhecimentos em computação em nuvem, dados e inteligência artificial.<br>
-🚀 Apaixonada por tecnologia, aprendizado contínuo e pelo desenvolvimento de soluções que geram impacto e valor para o negócio.
+  💻 Computer Engineering Student<br>
+  🏦 Banking industry experience in software development, data analysis, and process management.<br>
+  💼 At Banco Safra, worked across the entire Software Development Lifecycle (SDLC), including requirements gathering, development, implementation, maintenance, and observability, while also performing data analysis to support business decision-making.<br>
+  📊 Currently at Itaú Unibanco, working with data analysis, project management, process optimization, and business insights.<br>
+  🌎 Proficient in English.<br>
+  ☁️ Continuously expanding my knowledge in Cloud Computing, Data, and Artificial Intelligence.<br>
+  🚀 Passionate about technology, continuous learning, and building data-driven solutions that create business value.
 </p>
 
 ###
 
-<h2 align="left">Minhas Stacks:</h2>
+<h2 align="left">Languages and Tools:</h2>
 
 ###
 
