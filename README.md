@@ -13,7 +13,7 @@
 <p align="left">
 💻 Estudante de Engenharia de Computação<br>
 🏦 Experiência no setor bancário, atuando no desenvolvimento de software, análise de dados e gestão de processos.<br>
-💼 No Banco Safra, participei do desenvolvimento de sistemas, acompanhando todo o ciclo de vida das aplicações, desde o levantamento de requisitos, desenvolvimento, implementação, manutenção e observabilidade, além de atuar com análise avançada de dados para apoio à tomada de decisão.<br>
+💼 No Banco Safra, participei do desenvolvimento de sistemas, acompanhando todo o ciclo de vida das aplicações, desde o levantamento de requisitos, desenvolvimento, implementação, manutenção e observabilidade, além de atuar com análise de dados para apoio à tomada de decisão.<br>
 📊 Atualmente, no Itaú Unibanco, trabalho com análise de dados, gestão de projetos, otimização de processos e geração de insights estratégicos para o negócio.<br>
 🌎 Boa comunicação em inglês.<br>
 ☁️ Aprofundando conhecimentos em computação em nuvem, dados e inteligência artificial.<br>
