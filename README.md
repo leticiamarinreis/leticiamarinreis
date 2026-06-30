@@ -4,13 +4,13 @@
 ###
 
 <p align="left">
-  💻 Computer Engineering Student<br>
-  🏦 Banking industry experience in software development, data analysis, and process management.<br>
-  💼 At Banco Safra, worked across the entire Software Development Lifecycle, including implementation, maintenance, and observability, while also performing data analysis to support business decision-making.<br>
-  📊 Currently at Itaú Unibanco, working with data analysis, project management, process optimization, and business insights.<br>
-  🌎 Proficient in English.<br>
-  ☁️ Continuously expanding my knowledge in Cloud Computing, Data, and Artificial Intelligence.<br>
-  🚀 Passionate about technology, continuous learning, and building data-driven solutions that create business value.
+  • 💻 Computer Engineering Student<br>
+  • 🏦 Banking industry experience in software development, data analysis, and process management.<br>
+  • 💼 At Banco Safra, worked across the entire Software Development Lifecycle, including implementation, maintenance, and observability, while also performing data analysis to support business decision-making.<br>
+  • 📊 Currently at Itaú Unibanco, working with data analysis, project management, process optimization, and business insights.<br>
+  • 🌎 Proficient in English.<br>
+  • ☁️ Continuously expanding my knowledge in Cloud Computing, Data, and Artificial Intelligence.<br>
+  • 🚀 Passionate about technology, continuous learning, and building data-driven solutions that create business value.
 </p>
 
 ###
